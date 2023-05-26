@@ -4,8 +4,9 @@
 }
 
 body {
-  color: white;
+  color: coral;
   font-family: sans-serif;
+  rotate: (90);
 }
 
 .wrapper {
@@ -15,7 +16,7 @@ body {
 }
 
 header {
-  background-color: #f1c40f;
+  background-color: #00ffff;
   display: grid;
   place-content: center center;
 }
